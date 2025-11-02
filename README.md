@@ -1,7 +1,11 @@
 # 🎬 Netflix Data Analysis Dashboard
+<p align="center">
+  <img src="netflix_dashboard.png" alt="Netflix Dashboard Preview" width="600"/>
+</p>
 
 This is an interactive **Streamlit Dashboard** that visualizes insights from Netflix's movie and TV show dataset.  
 It helps explore patterns in genres, countries, release years, and more.
+
 
 ## 🚀 Features
 - Filter data by **year**, **country**, and **genre**
